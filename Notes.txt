@@ -1,0 +1,2 @@
+\n
+Allows you to have a single print statement with multiple print lines. New line at every \n
